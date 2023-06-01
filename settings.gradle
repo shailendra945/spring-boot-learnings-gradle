@@ -1,2 +1,10 @@
 rootProject.name = 'spring-boot-learnings-gradle'
 include('FirstProject')
+include('spring-boot-web-project')
+include('spring-boot-web-data-project')
+include('spring-boot-starters')
+include('spring-boot-testing')
+include('spring-boot-actuator')
+include('spring-boot-deployment')
+include('spring-boot-security')
+

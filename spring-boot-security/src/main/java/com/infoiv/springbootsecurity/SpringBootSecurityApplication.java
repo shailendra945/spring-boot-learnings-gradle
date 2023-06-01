@@ -1,16 +1,13 @@
-package com.infoiv.firstproject;
+package com.infoiv.springbootsecurity;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-
 @SpringBootApplication
-public class FirstProjectApplication {
+public class SpringBootSecurityApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(FirstProjectApplication.class, args);
+        SpringApplication.run(SpringBootSecurityApplication.class, args);
     }
-
-
 
 }
