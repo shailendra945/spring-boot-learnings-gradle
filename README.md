@@ -6,7 +6,7 @@ projects sequence :        \
 2.spring-boot-web-project    \
 3.spring-boot-web-data-jpa   \
 4.spring-boot-starters       \
-5.spring-boot-testing        \         
-6.spring-boot-actuator       \
-7.spring-boot-deployment     \
+5.spring-boot-testing  
+6.spring-boot-actuator        \
+7.spring-boot-deployment      \
 8.spring-boot-security       
