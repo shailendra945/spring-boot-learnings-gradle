@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: org.springframework.boot:spring-boot-starter-oauth2-resource-server:3.1.7" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="org.springframework.boot" artifactId="spring-boot-starter-oauth2-resource-server" version="3.1.7" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-oauth2-resource-server/3.1.7/add2b9bdc0238fcb516813455ad0acef9131ca92/spring-boot-starter-oauth2-resource-server-3.1.7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-oauth2-resource-server/3.1.7/eea4fa0e8bbc1d8f84cd9c03a571a776bee3e699/spring-boot-starter-oauth2-resource-server-3.1.7-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
